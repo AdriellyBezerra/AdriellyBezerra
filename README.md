@@ -1,16 +1,34 @@
-## Hi there 👋
+# Olá! Eu sou a Adrielly 👋
 
-<!--
-**AdriellyBezerra/AdriellyBezerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Desenvolvedora em formação  
+🌐 Foco em Desenvolvimento Web  
+📚 Atualmente estudando Java, JavaScript, SQL e Inglês  
+🚀 Buscando minha primeira oportunidade em Tecnologia
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- JavaScript
+- Java
+- SQL
+- Git
+- GitHub
+
+## 📚 Atualmente estudando
+
+- Desenvolvimento Web
+- Java
+- Banco de Dados
+- APIs
+- Inglês para Tecnologia
+
+## 🚀 Projetos
+
+🔨 Em construção — novos projetos serão adicionados em breve.
+
+## 📫 Contato
+
+- 💼 LinkedIn: LinkedIn]https://www.linkedin.com/in/adrielly-bezerra-616ab0354?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+- 📧 E-mail:adriellybezerra0112@gmail.com
